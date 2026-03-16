@@ -4,7 +4,7 @@
 
 **Project Name:** Personal Voice Assistant (asistant.py)  
 **Version:** 1.0 (Original Implementation)  
-**Development Period:** January 2026  
+**Development Period:** January 2023  
 **Platform:** Windows-Specific  
 **Status:** Proof-of-Concept / Educational  
 
